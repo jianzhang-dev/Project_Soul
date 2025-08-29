@@ -1,4 +1,5 @@
 # emergent_parallel_thinker.py
+#用于对比输入门的设计
 
 import torch
 import torch.nn as nn
@@ -225,4 +226,5 @@ def main():
 
 # --- 主程序入口 ---
 if __name__ == "__main__":
+
     main()
